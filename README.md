@@ -1,5 +1,4 @@
-Malawi_IDSR_Covid19SyntheticDataSet_v1.0
-
+Malawi IDSR Covid-19 Synthetic DataSet
 Contents of the dataset archive:
 
 Version 2.0 contains several datasets:
